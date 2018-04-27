@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Yanni Timmerman Portfolio",
-    "currentPage": "page12.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 211,
     "versionPublish": "4.6.5",
@@ -2309,11 +2309,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>As a 22-year-old student, I am currently in the 2nd year Academic Bachelor Graphic Design at the LUCA School of Arts in Gent, Belgium. Prior to the current field of study, I obtained a highschool diploma in Human Sciences and I also studied during 3 years Architecture at the University of Hasselt. Additionally, I achieved by weekend education at the Arts School in Genk to obtain my diplomas General Visual and Architectural Design.<div><br></div><div>Already at a young age, I liked being creative. Since, my drive to design and elaborate concepts only increased. As my passion reaches further towards other creative disciplines such as architecture, product- and interior design, my target is to not limit myself to only graphic design. Those interests play an important role, not only within my current education, but also in my personal life.&nbsp;</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQpy3NcefX",
+          "_anchor": "content1-5u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-5u"
+          "_params": {}
         },
         {
           "_styles": {
@@ -3889,11 +3889,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Design a poster with one of the provided newspaper titles. Make the viewer curious, make him smile or nicker, let him be perplexed or make him blush of embarrassment or indignation.<div><br></div><div>Interpretation:</div><div>‘In het buitenland slapen we beter’</div><div>(English: ‘We sleep better in foreign countries’): Satellite image of an illuminated Europe in which the lighting of Belgium is emphasized while the rest is rath- er left in the dark.</div><div><br></div><div>‘Brokstukken van duizend zuilen’</div><div>(Englisch: ‘fragments of a thousand columns’): collage of fragmented pictures in which the suffering and atrocities caused by ISIS are combined with the demolitions of the antique city Palmyra.</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQptcdZ4Cz",
+          "_anchor": "content1-5q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-5q"
+          "_params": {}
         }
       ]
     },
@@ -4723,11 +4723,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Design a record cover for one of the listed records. Try to image that the artist rejects the existing cover proposal and he has selected you to create a brand new concept. Also the labels, inside cover and/or the insert of the record are part of the assignmant.<div><br></div><div>Interpretation:</div><div>‘Songs for a dead pilot’: the dull colours and the cheap cardboard refer to the melancholic, slow, sad, atmosphere of the album. The cover consists of parachutes and wires which directly refer to the songs: ‘Born by the wires’ and ‘Condescent’.</div><div>The inside case represents a blueprint which is a metaphor for the complexity and technicity of an airplane. Both inside and outside cases are nished with a metal silver edge.</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQptKRlyOx",
+          "_anchor": "content1-5r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-5r"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5308,11 +5308,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Design a publication in which a clearly de ned action is visualized. Due to the graphic approach and adding text and/or image in a associative way, the manual is elevated to another interpretation level. The designer de nes and conducts the content, which makes the pure informative trenscending.<div><br></div><div>Interpretation:</div><div><br></div><div>Instructions to tie a tie linked to hang yourself. Prepare oneself to end his life. The cold atmosphere is visually displayed by a gradual loss of colour of each following page. To nally end with a black and white image that refers to death. The images depict the emptiness, the ne- glect, the decay of a person’s life.</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQpuuCUfLm",
+          "_anchor": "content1-5s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-5s"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6167,11 +6167,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Design a publication in which you give your personal view on one or more aspects of Paris.<div><br></div><div>Interpretation:</div><div><br></div><div>A tribute to the ‘Verlan’: a slang born in the slums of Paris. With the carve effect I want to glorify and immortalize a language that’s considered as rather negative and uncivilized in the traditional society.</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQpxBsVweL",
+          "_anchor": "content1-5t",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-5t"
+          "_params": {}
         },
         {
           "_styles": {
