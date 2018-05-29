@@ -7974,9 +7974,9 @@ body {
   color: #232323;
 }
 .cid-qTt4qJCk6x {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #000000;
 }
 .cid-qTt4qJCk6x h4 {
   font-weight: 500;
@@ -7991,6 +7991,26 @@ body {
   padding-top: 2rem;
 }
 .cid-qTt4qJCk6x .card-wrapper {
+  height: 100%;
+}
+.cid-qTt87HDrU9 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-qTt87HDrU9 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qTt87HDrU9 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qTt87HDrU9 .card-box {
+  padding-top: 2rem;
+}
+.cid-qTt87HDrU9 .card-wrapper {
   height: 100%;
 }
 .cid-qRafuASOQm {
@@ -8386,67 +8406,25 @@ body {
 .cid-qT4QxDv9m4 .mbr-section-subtitle {
   color: #465052;
 }
-.cid-qT4PuH8TS2 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-qTt9tUIcol {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
-.cid-qT4PuH8TS2 .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-qTt9tUIcol h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-.cid-qT4PuH8TS2 .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-qTt9tUIcol p {
+  color: #767676;
+  text-align: left;
 }
-.cid-qT4PuH8TS2 .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-qTt9tUIcol .card-box {
+  padding-top: 2rem;
 }
-.cid-qT4PuH8TS2 .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-qT4PuH8TS2 .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
+.cid-qTt9tUIcol .card-wrapper {
   height: 100%;
-  background: #554346;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-qT4PuH8TS2 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-qT4PuH8TS2 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-qT4PuH8TS2 .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-qT4PuH8TS2 .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
 }
 .cid-qT4R3UG2ma {
   padding-top: 60px;
