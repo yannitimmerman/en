@@ -9003,8 +9003,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump-800x1201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump-2-2000x3002.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump-2-2000x3002-800x1200.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -9015,20 +9015,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump-2-800x1201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump-2-2-2000x3002.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump-2-2-2000x3002-800x1200.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump3-800x1201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump3-2-2000x3002.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump3-2-2000x3002-800x1200.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -9039,12 +9039,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump4.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump4-800x1201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump4-3-2000x3002.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newspaper-opdracht-trump4-3-2000x3002-800x1200.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
